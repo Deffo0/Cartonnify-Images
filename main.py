@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import os
 import tkinter as tk
 from tkinter import *
-from PIL import ImageTk, Image
 
 
 def upload():
